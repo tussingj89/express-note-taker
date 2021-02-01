@@ -15,7 +15,7 @@ app.use(express.static("public"));
 // when the url ends with / it takes you to index.html
 app.get("/", function(req, res) {
     res.json(path.join(__dirname, "public/index.html"));
-  });
+ });
 
 //when url ends with a /notes it takes you to the note.html page
 app.get("/notes", (req, res) => {

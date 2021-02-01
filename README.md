@@ -38,7 +38,7 @@
   <img src="./public/assets/screenshot.gif" alt="express-note-taker"/>
 
   ## License
-  MIT License - see the [LICENSE.txt](https://github.com/tussingj89/express-note-taker/blob/main/LICENSE.txt) file for details
+  MIT License - see the [LICENSE](https://github.com/tussingj89/express-note-taker/blob/main/LICENSE.txt) file for details
   
   ## Testing 
   There are no current test available for this project.
